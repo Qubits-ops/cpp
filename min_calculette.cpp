@@ -37,7 +37,7 @@ int main()
 		cin >> n1;
 		cout << "entrez un deuxieme nombre : \n";
 		cin >> n2;
-		if (n1 or n2 == 0)
+		if (n2 == 0)
 		{
 			cout << "la division par 0 est impossible\n";
 			return 0;
