@@ -1,7 +1,7 @@
 #include <iostream>
 
 int main(){
-  //Brain explodes here:
+  //fizzbuzz structure
   for(int i = 0; i <= 100;i++){
     if(i % 15 == 0){
       std::cout << "FIZZBUZZ\n";
