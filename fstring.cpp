@@ -19,7 +19,7 @@ void fstring(vector<char> texte){
 int main()
 {
     cout << "Hello World !" << endl;
-    vector<char> aff(0);
+    vector<char> aff;
     aff.push_back('s');
     aff.push_back('a');
     aff.push_back('l');
