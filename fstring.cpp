@@ -26,4 +26,6 @@ int main()
     aff.push_back('u');
     aff.push_back('t');
     fstring(aff);
+    
+    return 0;
 }
